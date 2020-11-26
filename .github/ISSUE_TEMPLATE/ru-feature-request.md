@@ -1,20 +1,40 @@
 ---
-name: ru Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: [RU] Запрос фичи
+about: Сюда можно предложить идею.
+title:
+labels: enhancement, ru
+assignees:
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Описание
+<!-- Простое и понятное объяснение, в чем идея -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Чек-лист
+<!-- Вы ДОЛЖНЫ ответить "Да" в этих чек-боксах, что-бы показать идею (issue). -->
+<!-- Что-бы поставить галочку - поставьте 'x' (Икс) в квадратные кавычки, например = [x] -->
+- [ ] Никакие из открытых *или* закрытых репортов документируют эту идею.
+- [ ] Это новая идея, не баг.
+- [ ] Это точно улучшение, не то, про что будут спорить люди.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+<!-- Вам НЕ нужно отвечать "Да" на ниже описанное, но пожалуйста, поставьте галочку, если подходит -->
+<!-- Что-бы поставить галочку - поставьте 'x' (Икс) в квадратные кавычки, например = [x] -->
+- [ ] Не повлияет на баланс игры. 
+- [ ] This is not an idea for new game content (e.g. new weapons, maps, sounds).
+- [ ] Это не идея для нового контента игры. (например, новые (ну не из CS) карты, звуки, пушки)
+- [ ] Это не предложения добавить **скины**.
+- [ ] Это идея для кода, не для текстур, звуков, так далее...
+- [ ] Эта идея уже реализована в CSGO/CSS
+- [ ] Есть док-вы, что людям нравиться очень идея.
+- [ ] Эта идея была реализована в другом моде <!-- Вставьте ссылку -->
+- [ ] Эта идея была в CSGO/CSS, но её убрали.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Скриншоты
+<!-- Если таковые есть -->
+
+### Рекреативные 
+<!-- Другие варианты выполнения этой идеи -->
+1. 
+2. 
+3. 
+ 

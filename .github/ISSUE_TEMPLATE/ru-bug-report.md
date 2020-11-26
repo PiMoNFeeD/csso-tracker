@@ -1,38 +1,58 @@
----
-name: ru Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+  ---
+name: [Репорт бага]
+about: Баги CSSO
+title:
+labels: bug, ru
+assignees:
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Описание
+<!-- Простое и понятное объяснение, в чем глюк -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Чек-лист
+<!-- Вы ДОЛЖНЫ ответить "Да" в этих чек-боксах, что-бы открыть репорт (issue). -->
+<!-- Что-бы поставить галочку - поставьте 'x' (Икс) в квадратные кавычки, например = [x] -->
+- [ ] Никакие из открытых *или* закрытых репортов документируют эту проблему.
+- [ ] Это баг (программная ошибка), не новая идея.
+- [ ] Это точно баг, и не что-то, о чем будут спорить.
+- [ ] Эта проблема проявляется на последней версии CSSO
+<!-- Вам НЕ нужно отвечать "Да" на ниже описанное, но пожалуйста, поставьте галочку, если подходит -->
+<!-- Что-бы поставить галочку - поставьте 'x' (Икс) в квадратные кавычки, например = [x] -->
+- [ ] Эта проблема проявляется тоже на CSS/CSGO.
+- [ ] This bug is in the code of the game, not in the textures, sounds, or other resources.
+- [ ] Этот баг - ошибка в коде, а не в текстурах, звуках, или в других ресурсах.
+- [ ] Это репорт есть на  [на офицальном баг-трекере Source 1](https://github.com/ValveSoftware/Source-1-Games/issues) или же на [на офицальном  баг-трекере CSGO](https://github.com/ValveSoftware/csgo-osx-linux/issues).
+- [ ] Эта проблема проявляется без различных модификаций (т.е скины, и т. к).
+- [ ] Эта проблема проявляется на слушающим сервере. (загрузка карты коммандой `map`).
+- [ ] Эта проблема проявляется на удаленном сервере.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Репродукция / Повторение бага
+<!-- Шаги, что-бы повторить баг. -->
+<!-- Баги, которые нельзя повторить, будет очень тяжело починить. -->
+1.
+2.
+3.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Скриншоты
+<!-- Если таковые есть -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+### Детали установки
+#### Настройки клиента
+<!-- Заполняйте полностью.  -->
+- *Сервер или клиент:* <!-- Проблема на сервере, или на клиенте? -->
+- *OS:*
+- *Версия CSSO* <!-- Сюда версию мода -->
+- *Моды:* <!-- Любой контент со стороны, конфиги, скины, так далее. -->
+- *Параметры запуска:* <!-- Если таковые есть -->
+- *Лицензия или пиратка:* <!-- ну ты понел  -->
+#### Версия драйвера:
+<!-- Для проблем с графикой -->
+- *Версия драйвера:* <!-- Укажите версию -->
+- *Уровень DirectX:* <!-- я короче сам не знаю, можно ли настроить -dxlevel -->
+#### Ваш Пк
+<!-- Если что-то с лагами -->
+- *CPU:* <!-- Пример: AMD RYZEN 3600X -->
+- *GPU:* <!-- Пример: NVIDIA GTX 2070 Super -->
+- *RAM:* <!-- Пример: 32GB -->
+- *Где установлена CSSO:* <!-- HDD or SSD -->
