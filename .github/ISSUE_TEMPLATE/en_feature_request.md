@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title:
+title: ''
 labels: enhancement
-assignees:
+assignees: ''
 
 ---
 
@@ -35,4 +35,4 @@ assignees:
 <!-- Alternative implementations of this idea -->
 1. 
 2. 
-3. 
+3.
